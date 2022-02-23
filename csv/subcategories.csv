@@ -1,0 +1,474 @@
+id;name;category_id
+1;Ferme de animale;1
+2;Constructii si amenajari ferme;1
+3;Abatorizare;1
+4;Carmangerii si macelarii;1
+5;Servicii veterinare;1
+6;Laboratoare de analize;1
+7;Asociatii si federatii (Agricultura si alimente);1
+8;Ferme vegetale;1
+9;Servicii agricole;1
+10;Inginer agronom;1
+11;Morarit;1
+12;Vinificatie;1
+13;Cultivare si procesare fructe si legume;1
+14;Prelucrare plante tehnice si medicinale;1
+15;Agricultura ecologica;1
+16;Utilaje agricole;1
+17;Alte servicii de agricultura;1
+18;Cultivare si procesare plante aromatice si medicinale;1
+19;Produse si alimente;1
+20;Montaj reclame;2
+21;Reparatii/renovari;2
+22;Siliconare/schimbare geamuri;2
+23;Jgeaburi/burlane;2
+24;Montaje antene si componente telecomunicatii;2
+25;Escalada blocuri;2
+26;Degajari zone cu risc;2
+27;Inspectii foto-video;2
+28;Iluminare ambientala;2
+29;Toaletari arbori;2
+30;Salvari animale;2
+31;Alte servicii de alpinism utilitar;2
+32;Asigurari auto;3
+33;Asigurari casco;3
+34;Asigurari ROTR;3
+35;Asigurari locuinte si cladiri;3
+36;Asigurari bunuri;3
+37;Asigurari marfa (CMR);3
+38;Asigurari de viata;3
+39;Asigurari de vacante si calatorii;3
+40;Asigurari de sanatate;3
+41;Asigurari pentru sportivi;3
+42;Asigurari tehnice;3
+43;Asigurari pentru business;3
+44;Alte asigurari;3
+45;Firme si societati de consultanta juridica;4
+46;Avocati;4
+47;Notari;4
+48;Executori Judecatoresti;4
+49;Juristi;4
+50;Mediatori;4
+51;Alte servicii de asistenta si consultanta juridica;4
+52;Automobile;5
+53;Autoutilitare;5
+54;Camioane si autocare;5
+55;Motociclete si scutere;5
+56;Campere si rulote;5
+57;Remorci si platforme;5
+58;Biciclete;5
+59;Trotinete/vehicule electrice;5
+60;Barci;5
+61;Avioane usoare;5
+62;Vehicule agricole si industriale;5
+63;Alte vehicule;5
+64;Amenajari interioare;6
+65;Amenajari exterioare;6
+66;Zidarie si structuri;6
+67;Carotari;6
+68;Cosuri de fum si seminee;6
+69;Tamplarie, geamuri si usi;6
+70;Instalatii electrice;6
+71;Instalatii tehnico sanitare;6
+72;Utilitati, racordari, bransamente si resurse;6
+73;Instalatii de ventilatie si climatizare;6
+74;Acoperisuri;6
+75;Garduri, porti si usi de garaj;6
+76;Amenajari spatii verzi si spatii exterioare;6
+77;Mobila si decoratiuni;6
+78;Interfoane si sisteme de acces;6
+79;Lifturi, ascensoare si rampi;6
+80;Ignifugari;6
+81;Drumuri si poduri;6
+82;Pentru santier;6
+83;Materiale de constructii;6
+84;Avize, certificate si autorizatii;6
+85;Arhitectura si Design;6
+86;Topografie si Cadastru;6
+87;Proiectare;6
+88;Constructor de la A la Z;6
+89;Alte servicii de constructii;6
+90;Demolari;6
+91;Contabilitate primara;7
+92;Contabilitate de gestiune;7
+93;Contabilitate financiara;7
+94;Evidenta contabila;7
+95;Expertiza contabila;7
+96;Contabilitate manageriala;7
+97;Intocmire si certificare bilant;7
+98;Salarizare;7
+99;Audit;7
+100;Personal de ocazie (Contabilitate si audit);7
+101;Programe si softuri pentru contabilitate;7
+102;Alte servicii de contabilitate si audit;7
+103;Consultanta si expertiza fiscala;8
+104;Controlling;8
+105;Analize financiare;8
+106;Consultanta financiara;8
+107;Consultanta in afaceri;8
+108;Cloud accounting;8
+109;Consultanta in atragerea fondurilor guvernamentale;8
+110;Consultanta in atragerea fondurilor europene;8
+111;Personal de ocazie (Consultanta si finantari);8
+112;Alte servicii de consultanta si finantari;8
+113;Creditare;8
+114;Leasing auto;8
+115;Înfiintare firma;8
+116;Curatenie la domiciliu;9
+117;Curatenie dupa contructor;9
+118;Curatenie spatii verzi;9
+119;Intretinere spatii verzi;9
+120;Curatenie industriala;9
+121;Curatenie unitati sanitare;9
+122;Curatenie in spatii office si centre business;9
+123;Curatenie in centre comerciale;9
+124;Aparatura si produse igienico-sanitare;9
+125;Curatenie scari de bloc;9
+126;Echipamente pentru curatenie;9
+127;Colectare deseuri;9
+128;Vidanjare;9
+129;Spalatorii de haine si lenjerii;9
+130;Spalatorii de covoare;9
+131;Curatare si intretinere piscine;9
+132;Alte servicii de curatenie si menaj;9
+133;Curatare tapiterii;9
+134;Constructii si amenajari ferme;10
+135;Abatorizare;10
+136;Carmangerii si macelarii;10
+137;Servicii veterinare;10
+138;Laboratoare de analize;10
+139;Asociatii si federatii (Agricultura si alimente);10
+140;Ferme vegetale;10
+141;Servicii agricole;10
+142;Inginer agronom;10
+143;Morarit;10
+144;;10
+145;Cursuri aviatie si insotitori de bord;10
+146;Cursuri foto-video;10
+147;Cursuri beauty/infrumusetare;10
+148;Cursuri masaj;10
+149;Cursuri paza si protectie;10
+150;Cursuri militare;10
+151;Cursuri port-arma;10
+152;Cursuri dezvoltare personala;10
+153;Curs florar;10
+154;Curs formator;10
+155;Cursuri si meditatii limbi straine;10
+156;Cursuri si meditatii materii scolare;10
+157;Cursuri baby-sitter;10
+158;Cursuri medicale;10
+159;Cursuri reparatii auto;10
+160;Cursuri croitorie si design vestimentar;10
+161;Cursuri constructii;10
+162;Cursuri gastronomie;10
+163;Cursuri industria hoteliera;10
+164;Curs ghid turistic;10
+165;Cursuri IT si programare;10
+166;Cursuri marketing si vanzari;10
+167;Cursuri management;10
+168;Cursuri contabilitate;10
+169;Cursuri de dans;10
+170;Scoli de soferi si atestate pentru transport;10
+171;Protectia muncii;10
+172;Cursturi stivuitorist;10
+173;Cursuri modeling;10
+174;Cursuri agricultura;10
+175;Cursuri finantari si fonduri europene;10
+176;Cursuri de muzica;10
+177;Cursuri de actorie si teatru;10
+178;Arte plastice;10
+179;Alte cursuri;10
+180;Scoli si facultati private;10
+181;Cursuri conducator ambarcatiune;10
+182;Deratizare;11
+183;Dezinsectie;11
+184;Dezinfectie;11
+185;Decontaminari;11
+186;Decolmatari;11
+187;Alte servicii de deratizare si dezinfectie;11
+188;Pompe funebre;12
+189;Medic constatator;12
+190;Transport funerar;12
+191;Incinerare;12
+192;Accesorii pentru inmormantare;12
+193;Echipa pentru saparea gropii;12
+194;Imbalsamare si cosmetizare;12
+195;Organizarea ritualului religios;12
+196;Organizarea mesei de pomenire;12
+197;Monumente funerare;12
+198;Alte servicii funerare;12
+199;Servicii complete;12
+200;Website;13
+201;SEO;13
+202;Google Adwords;13
+203;Social Media Marketing;13
+204;Aplicatii mobile;13
+205;e-commerce;13
+206;Hosting / Gazduire web;13
+207;Design Grafic;13
+208;Vanzari;14
+209;Inchirieri;14
+210;Alte servicii imobiliare;14
+211;Evaluator proprietati imobiliare;14
+212;Aplicare gene;15
+213;Coafor;15
+214;Dermopigmentare;15
+215;Epilare definitiva;15
+216;Manichiura;15
+217;Pedichiura;15
+218;Intretinere si remodelare corporala;15
+219;Tratamente faciale;15
+220;Aparatura profesionala;15
+221;Produse profesionale;15
+222;Machiaj / Make-up;15
+223;Cosmetica;15
+224;Saloane de bronzat;15
+225;Frizerie / Barber-shop;15
+226;Tatuaje si piercing;15
+227;Unghii tehnice;15
+228;Alte servicii de infrumusetare;15
+229;Laminare gene - sprancene;15
+230;Centre Spa si Wellness;16
+231;Masaj;16
+232;Aparatura si mobilier masaj;16
+233;Centre de meditatii;16
+234;Alte servicii de relaxare;16
+235;Organizatori evenimente;17
+236;Sali de evenimente;17
+237;Dj;17
+238;Formatii si interpreti de muzica;17
+239;Lumini si fum;17
+240;Staroste;17
+241;Ursitoare;17
+242;Animatori pentru copii;17
+243;MC si prezentatori;17
+244;Foto;17
+245;Video;17
+246;Gheata carbonica;17
+247;Artificii;17
+248;Show-uri de comedie si divertisment;17
+249;Show-uri pentru adulti;17
+250;Hostess;17
+251;Modele;17
+252;Bar mobil;17
+253;Candy bar;17
+254;Decoratii si decoratiuni;17
+255;Inchirieri vesela si tacamuri;17
+256;Inchirieri si vanzari vestimentare;17
+257;Mijloace de transport pentru evenimente si ceremonii;17
+258;Personal de ocazie (Organizari evenimente);17
+259;Catering;17
+260;Foodtruck si restaurante mobile;17
+261;Inchirieri sisteme de sonorizare;17
+262;Invitatii;17
+263;Marturii;17
+264;Toalete ecologice;17
+265;Alte servicii de organizari evenimente;17
+266;Baby-sitter;18
+267;Locuri si centre de joaca pentru copii;18
+268;Gradinite si crese private;18
+269;Cursuri pentru gravide;18
+270;Consultanti in alaptare;18
+271;Articole vestimentare si incaltaminte;18
+272;Jucarii;18
+273;Carucioare, mobilier si alte articole;18
+274;After-school;18
+275;Profesori de sprijin;18
+276;Terapie asistata de animale;18
+277;Alte servicii pentru copii;18
+278;Camine pentru batrani;19
+279;Centre de zi;19
+280;Cluburi de seniori;19
+281;Ingrijire la domiciliu;19
+282;Alte servicii pentru varstnici;19
+283;Cabinete veterinare;20
+284;Clinici veterinare;20
+285;Farmacii veterinare;20
+286;Asistenta medicala veterinare la domiciliu;20
+287;Toaletaj;20
+288;Toaletaj la domiciliu;20
+289;Pet shop-uri si magazine de accesorii;20
+290;Hoteluri si pensiuni pentru animale;20
+291;Dresaj;20
+292;Transport animale de companie;20
+293;Radiologie si imagistica veterinara;20
+294;Cimitir si crematoriu pentru animale;20
+295;Organizatori concursuri, targuri, expozitii;20
+296;Asociatii si federatii (Pet & vet);20
+297;Handleri;20
+298;Pet-sitteri;20
+299;Urgente medicale veterinare;20
+300;Alte servicii pet & vet;20
+301;Automatizari industriale;21
+302;Birotica si papetarie;21
+303;Combustibil;21
+304;Industrie alimentara;21
+305;Confectii industriale;21
+306;Confectii metalice;21
+307;Prelucrari mecanice;21
+308;Prelucrari mecanice prin aschiere;21
+309;Taieri;21
+310;Indoiri, stantari;21
+311;Vopsitorii;21
+312;Galvanizare;21
+313;Zincare;21
+314;Cromare;21
+315;Nichelare;21
+316;Sablare;21
+317;Bobinaj;21
+318;Metalurgie;21
+319;Tipografii;21
+320;Bijuterii;21
+321;Gravuri;21
+322;Industria lemnului;21
+323;Alte servicii de productie si industrie;21
+324;Textile;21
+325;Agentii de publicitate;22
+326;Materiale publicitare;22
+327;Productie media;22
+328;Alte servicii de publicitate si promovare;22
+329;Reparatii calculatoare;23
+330;Reparatii telefoane mobile;23
+331;Reparatii acumulatori;23
+332;Reparatii bijuterii;23
+333;Reparatii ceasuri;23
+334;Reparatii scule mecanice;23
+335;Reparatii scule hidraulice si pneumatice;23
+336;Reparatii compresoare;23
+337;Reparatii motocositoare;23
+338;Reparatii drujbe;23
+339;Reparatii corpuri de iluminat;23
+340;Reparatii feronerie;23
+341;Croitorie;23
+342;Reparatii electrocasnice;23
+343;Reparatii imprimante si cartusuri;23
+344;Reparatii instrumente muzicale;23
+345;Reparatii lifturi civile;23
+346;Reparatii cantare electronice si mecanice;23
+347;Reparatii centrale electrice si sisteme de climatizare;23
+348;Reparatii centrale termice;23
+349;Reparatii si revizii sisteme de ignifugari;23
+350;Reparatii pantofarie si marochinarie;23
+351;Alte tipuri de reparatii;23
+352;Agentii de recrutare Romania;24
+353;Agentii de recrutare pentru strainatate;24
+354;Alte servicii de resurse umane;24
+355;Alarme si sisteme de securitate;25
+356;Garda de corp;25
+357;Paza evenimente;25
+358;Paza fixa (obiective fixe);25
+359;Interventie rapida;25
+360;Proiectare sisteme de securitate;25
+361;Instalare sisteme de securitate;25
+362;Mentenanta sisteme de securitate;25
+363;Sisteme anti-incendiu;25
+364;Securitate informatica;25
+365;Detectivi particulari;25
+366;Transport valori;25
+367;Seifuri;25
+368;Alte servicii de securitate si paza;25
+369;Chirurgie;26
+370;Analize medicale;26
+371;Cardiologie;26
+372;Alergologie si imunologie;26
+373;Dermatologie si venerologie;26
+374;Diabet zaharat,nutritie si boli metabolice;26
+375;Endocrinologie;26
+376;Epidemiologie;26
+377;Gastroenterologie;26
+378;Genetica medicala;26
+379;Geriatrie si gerontologie;26
+380;Hematologie;26
+381;Medicina muncii;26
+382;Medicina de familie;26
+383;Medicina interna;26
+384;Medicina legala;26
+385;Medicina nucleara;26
+386;Medicina sportiva si recuperare medicala;26
+387;Urologie si nefrologie;26
+388;Neonatologie;26
+389;Neurologie;26
+390;Ortopedie si traumatologie;26
+391;ORL si audiometrie;26
+392;Pediatrie;26
+393;Pneumologie;26
+394;Psihiatrie;26
+395;Psihologie, psihoterapie si logopedie;26
+396;Reumatologie;26
+397;Stomatologie;26
+398;Oftalmologie si optica medicala;26
+399;Farmacii si produse farmaceutice;26
+400;Paliatie;26
+401;Celule stem;26
+402;Consumabile si aparatura medicala;26
+403;Dispozitive medicale ortopedice, proteze, orteze;26
+404;Ecografie, radiografie si imagistica medicala;26
+405;Ingrijire medicala la domiciliu;26
+406;Ambulante private;26
+407;Medicina alternativa;26
+408;Implant / Transplant par;26
+409;Alte servicii medicale;26
+410;Ginecologie si obstetrica;26
+411;Alte activitati indoor;27
+412;Personal trainer;27
+413;Articole sportive si echipamente;27
+414;Sali pentru fitness si bodybuilding;27
+415;Terenuri si spatii de sport (outdoor);27
+416;Activitati in sali de sport (indoor);27
+417;Circuite;27
+418;Jocuri de interior;27
+419;Alte activitati outdoor;27
+420;Pescuit;27
+421;Vanatoare;27
+422;Cursuri sportive;27
+423;Case de expeditii;28
+424;Dispecer/dispecerate;28
+425;Transport aerian;28
+426;Transport feroviar;28
+427;Transport naval;28
+428;Transport marfă;28
+429;Transport agabaritic;28
+430;Transport substante periculoase;28
+431;Transport persoane;28
+432;Distributie;28
+433;Curierat;28
+434;Tractari auto;28
+435;Transport auto;28
+436;Transport persoane ocazional;28
+437;Insotire - escortare transport agabaritic;28
+438;Carsharing;28
+439;Taximetrie;28
+440;Food delivery;28
+441;Curier dedicate;28
+442;Alte servicii de transport;28
+443;Transport nisip, piatra si moloz;28
+444;Mutări;28
+445;Transport frigorific;28
+446;Transport animale vii;28
+447;Cazare;29
+448;Drink & Party;29
+449;Food & Drink;29
+450;Domenii schiabile;29
+451;Muzee;29
+452;Gradini botanice;29
+453;Parcuri de distractii;29
+454;Parcuri de aventura;29
+455;Croaziere;29
+456;Drumetii;29
+457;Ghid turistic;29
+458;Aquapark si strand;29
+459;Alte locuri de interes;29
+460;Agenții de turism;29
+461;Comunicatii;30
+462;Deszapezire;30
+463;Depozitare;30
+464;Arhivare documente;30
+465;Automate de cafea si alte produse;30
+466;Traduceri;30
+467;Jocuri de noroc;30
+468;Callcenter;30
+469;Chei si deblocari;30
+470;Handmade;30
+471;Florarie si aranjamente florale;30
+472;Alte servicii diverse;30
+473;Tehnoredactare;30
